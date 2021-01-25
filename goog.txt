@@ -1,0 +1,1 @@
+alias goog='foo(){ open "https://www.google.com/search?q=$1"; echo "googling $1" }; foo '
